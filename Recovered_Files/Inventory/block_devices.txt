@@ -1,0 +1,37 @@
+NAME        FSTYPE   FSVER LABEL UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+loop0       squashfs 4.0                                                    0   100% /snap/bare/5
+loop1       squashfs 4.0                                                    0   100% /snap/cheese/78
+loop2       squashfs 4.0                                                    0   100% /snap/chromium/3464
+loop3       squashfs 4.0                                                    0   100% /snap/chromium/3483
+loop4       squashfs 4.0                                                    0   100% /snap/core20/2866
+loop5       squashfs 4.0                                                    0   100% /snap/core22/2339
+loop6       squashfs 4.0                                                    0   100% /snap/core22/2411
+loop7       squashfs 4.0                                                    0   100% /snap/core24/1587
+loop8       squashfs 4.0                                                    0   100% /snap/cups/1229
+loop9       squashfs 4.0                                                    0   100% /snap/core24/1643
+loop10      squashfs 4.0                                                    0   100% /snap/cups/1238
+loop11      squashfs 4.0                                                    0   100% /snap/firefox/8633
+loop12      squashfs 4.0                                                    0   100% /snap/firefox/8664
+loop13      squashfs 4.0                                                    0   100% /snap/firmware-updater/226
+loop14      squashfs 4.0                                                    0   100% /snap/firmware-updater/224
+loop15      squashfs 4.0                                                    0   100% /snap/gnome-42-2204/247
+loop16      squashfs 4.0                                                    0   100% /snap/gnome-46-2404/153
+loop17      squashfs 4.0                                                    0   100% /snap/gnome-42-2204/263
+loop18      squashfs 4.0                                                    0   100% /snap/mesa-2404/1165
+loop19      squashfs 4.0                                                    0   100% /snap/mesa-2404/1839
+loop20      squashfs 4.0                                                    0   100% /snap/obsidian/62
+loop21      squashfs 4.0                                                    0   100% /snap/obsidian/65
+loop22      squashfs 4.0                                                    0   100% /snap/remmina/7392
+loop23      squashfs 4.0                                                    0   100% /snap/gtk-common-themes/1535
+loop24      squashfs 4.0                                                    0   100% /snap/snap-store/1367
+loop25      squashfs 4.0                                                    0   100% /snap/remmina/7085
+loop26      squashfs 4.0                                                    0   100% /snap/snapd/27591
+loop27      squashfs 4.0                                                    0   100% /snap/snap-store/1338
+loop28      squashfs 4.0                                                    0   100% /snap/snapd/27406
+loop29      squashfs 4.0                                                    0   100% /snap/snapd-desktop-integration/387
+loop30      squashfs 4.0                                                    0   100% /snap/snapd-desktop-integration/391
+loop31      squashfs 4.0                                                    0   100% /snap/thunderbird/1138
+loop32      squashfs 4.0                                                    0   100% /snap/thunderbird/1170
+nvme0n1                                                                              
+├─nvme0n1p1 vfat     FAT32       CCEC-ABBC                                 1G     1% /boot/efi
+└─nvme0n1p2 ext4     1.0         2e3935fd-ae91-44a2-b964-9311597ce947    7.9G    88% /
